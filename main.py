@@ -12,4 +12,4 @@ elif tempInType == 'f' or tempInType == 'F':
   tempOut = (tempIn - 32) * 5/9
   print(f"{tempIn}° in Fahrenheit is equivalent to {tempOut}° Celsius.")
 else:
-  print(f"invalid unit({tempInType})")
+  print(f"Invalid unit({tempInType})")
