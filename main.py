@@ -13,3 +13,7 @@ elif tempInType == 'f' or tempInType == 'F':
   print(f"{tempIn}° in Fahrenheit is equivalent to {tempOut}° Celsius.")
 else:
   print(f"Invalid unit({tempInType})")
+
+
+
+  
