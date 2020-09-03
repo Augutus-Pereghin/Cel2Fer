@@ -1,7 +1,7 @@
 # Author: Augustus Perseghin
 # Collaborator: ZiHao Xu
 # Collaborator: Chenyin Zhang
-
+# The purpose of this program is to recieve a temperature (with unit) # and convert it into the other unit type (Fehrenheit or Celsius)
 tempIn = float(input("Enter temperature: "))
 tempInType = input("Enter unit in F/f or C/c: ")
 tempOut = 0
